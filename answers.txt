@@ -16,4 +16,6 @@ the main branch, then merge the changes into the main. On the other hand when
 you have a branch (called q1), and then make changes to the main, if you then 
 want the q1 branch to instead start from the updated main, you can use rebaseing 
 
+Q4: What are you looking forward to this semester?
 
+Answer: Building projects that analyze real world data. 
